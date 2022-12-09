@@ -1,0 +1,12 @@
+
+
+For VIF dxvif-fgag6geh (Routes received from on-premise peer 172.30.18.201/30 )
+
+Prefix		                 Nexthop	                        AS path
+* 170.30.108.0/22         172.30.18.201                           8030 64811 ?
+
+
+For VIF dxvif-ffj4rqsy (Routes received from on-premose peer 172.30.18.205/30)
+
+Prefix		              Nexthop	                               AS path
+* 170.30.108.0/22         172.30.18.205                           8030 64811 ?
